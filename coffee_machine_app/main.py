@@ -1,3 +1,5 @@
+# This version of the coffee machine is using procedural programming.
+
 # This dictionary is the menu of the coffee machine. It contains 'espresso', 'latte', and 'cappuccino'. Each of these
 # drinks also has its own dictionary of ingredients and a separate key/value of its cost.
 MENU = {
